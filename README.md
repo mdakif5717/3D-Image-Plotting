@@ -1,4 +1,4 @@
-# 3D Image Plotting with Matplotlib (Python)
+# 3D Image Plotting with Matplotlib
 
 This project demonstrates how to create 3D plots of image data using Python and Matplotlib. It visualizes the intensity values of a grayscale image as a 3D surface.
 
