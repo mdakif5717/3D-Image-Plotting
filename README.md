@@ -22,6 +22,13 @@ This project demonstrates how to create 3D plots of image data using Python and 
 3. Run each cell step by step.
 4. Replace the default image with your own if desired.
 
+## 🖼 Example Output
+
+Below is an example 3D surface plot generated from image-like data:
+
+![3D Surface Plot](sample_3d_surface_plot.png)
+
+
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE).
